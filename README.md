@@ -9,6 +9,7 @@ This project has two parts.
 Front-end<br>
 Back-end
 <br>
+<br>
 Front-end part includes HTML, CSS, JavaScript.<br>
 Back-end part includes PHP.<br>
 Database part is MySQL.<br>
