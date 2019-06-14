@@ -3,10 +3,10 @@ Full Stack Blood Bank Project
 
 This is an blood bank system in web platform. 
 <br>
+<br>
 This project has two parts.
 <br>
-<br>
-Front-end
+Front-end<br>
 Back-end
 <br>
 Front-end part includes HTML, CSS, JavaScript.<br>
